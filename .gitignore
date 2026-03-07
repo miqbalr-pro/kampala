@@ -52,3 +52,5 @@ android/.gradle/
 # FVM Version Cache
 .fvm/
 .vscode/
+.fvmrc
+ios/Podfile.lock
