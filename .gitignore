@@ -48,3 +48,7 @@ build/
 .dart_tool/
 ios/Pods/
 android/.gradle/
+
+# FVM Version Cache
+.fvm/
+.vscode/
